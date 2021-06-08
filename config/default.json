@@ -1,0 +1,7 @@
+{
+    "name":"gwh",
+    "age": 25,
+    "jwtPrivateKey":"1234",
+    "requiresAuth": false
+
+}
